@@ -1,6 +1,6 @@
 # CMSC-35620
 
-# TBD BZ WED NIGHT
+# TBD BY WED NIGHT
 
 ``Data`` folder contains data for an array of Physics subfields from OpenAlex
 
