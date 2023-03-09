@@ -6,4 +6,4 @@
 
 ``preprocess.ipynb`` walks through main steps for preprocessing pickled OpenAlex data to make it usable for analysis
 
-``paradigmaticness.ipynb`` contains base code from the original Evans et al. (2016) paper
+``visualization.ipynb`` contains guidelines and base code for streamlined plots
