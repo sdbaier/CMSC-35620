@@ -12,7 +12,7 @@
 
 `Ronik_Clustering` folder contains the SVD dimensionality reduction, the k-means clustering optimization over k, the outputs from each discipline, and the analysis code. 
 
-`preprocess-felix-v2.ipynb` contains code that converts the binaries into usable CSV files with relevant statistics.
+`preprocess-and-process.ipynb` contains code that converts the binaries into usable .xlsx files with relevant statistics.
 
 `preprocess.ipynb` walks through main steps for preprocessing pickled OpenAlex data to make it usable for analysis.
 
