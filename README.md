@@ -8,7 +8,7 @@
 
 `Jiayan_Glove` folder contains code for the cosine similarity over the GloVe word embedding, the csv outputs, the OLS analysis code, and visualizations.
 
-`Silvan` folder contains code for custom word embeddings and topic models, as well as all visualizations.
+`Silvan_Custom_Word_Embedding` folder contains code for custom word embeddings and topic models, as well as all visualizations.
 
 `Ronik` folder contains the SVD dimensionality reduction, the k-means clustering optimization over k, the outputs from each discipline, and the analysis code. 
 
